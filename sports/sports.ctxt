@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n1\ points1\ win1\ noresult1\ loss1\ rate1\ startvalue1\ stopvalue1\ game1
+comment0.target=void\ eliminator(java.lang.String[],\ int[],\ int[],\ int[],\ int[],\ float[],\ int,\ int,\ java.lang.String)
+comment1.params=g1\ numberofteams1
+comment1.target=void\ spaceadder(java.lang.String[],\ int)
+comment2.params=n1\ numberofteams1\ stopvalue1
+comment2.target=void\ spaceremover(java.lang.String[],\ int,\ int)
+comment3.params=n2\ points2\ win2\ noresult2\ loss2\ rate2\ startvalue2\ stopvalue2\ game2
+comment3.target=void\ printtable(java.lang.String[],\ int[],\ int[],\ int[],\ int[],\ float[],\ int,\ int,\ java.lang.String)
+comment4.params=fwinners1\ runnersup1\ runnersup2\ players1\ game1
+comment4.target=void\ trophy(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String[],\ java.lang.String)
+comment5.params=s1\ s2
+comment5.target=java.lang.String\ cricsim(java.lang.String,\ java.lang.String)
+comment6.params=team1\ team2\ game1
+comment6.target=java.lang.String\ footballhockey(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=etteam1\ etteam2\ etscore1\ etscore2
+comment7.target=java.lang.String\ extratime(java.lang.String,\ java.lang.String,\ int,\ int)
+comment8.params=pteam1\ pteam2
+comment8.target=java.lang.String\ penalty(java.lang.String,\ java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
